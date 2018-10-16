@@ -1,2 +1,2 @@
-# meteor-redux-react-reactrouter
-a simple framework for meteor
+# meteorApp
+meteor-redux-react-reactrouter a simple framework for meteor
